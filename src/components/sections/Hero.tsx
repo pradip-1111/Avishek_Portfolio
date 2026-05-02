@@ -64,7 +64,10 @@ export function Hero() {
             className="text-5xl md:text-8xl font-black tracking-tighter mb-6 leading-[0.85] text-foreground"
           >
             Abhishek <br />
-            <span className="text-primary italic">Gupta</span>
+            Gupta <br />
+            <span className="text-primary italic text-3xl md:text-5xl block mt-4">
+              <Typewriter words={["Developer", "Designer", "Engineer", "Architect"]} />
+            </span>
           </motion.h1>
 
           <motion.p
