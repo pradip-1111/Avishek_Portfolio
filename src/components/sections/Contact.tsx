@@ -108,7 +108,7 @@ export function Contact() {
           {/* Social Transmission Hub */}
           <div className="flex flex-col items-center gap-8">
             <div className="flex flex-wrap justify-center gap-6 text-sm font-bold text-foreground/40">
-              <a href="tel:+977-9845809962" className="hover:text-primary transition-colors">+977-9845809962</a>
+              <a href="tel:+977-9845809952" className="hover:text-primary transition-colors">+977-9845809952</a>
               <span className="hidden md:block opacity-20">|</span>
               <a href="tel:+91-9263947815" className="hover:text-primary transition-colors">+91-9263947815</a>
             </div>

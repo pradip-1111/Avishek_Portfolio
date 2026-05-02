@@ -18,22 +18,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Avishek | Software Architect & Creative Engineer",
+  title: "Abhishek Gupta | Software Architect & Creative Engineer",
   description: "Senior Software Engineer specializing in building high-performance digital ecosystems with a focus on architecture and design.",
   keywords: ["Software Engineer", "Frontend Architect", "Next.js", "React", "Portfolio"],
-  authors: [{ name: "Avishek" }],
-  creator: "Avishek",
+  authors: [{ name: "Abhishek Gupta" }],
+  creator: "Abhishek Gupta",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://avishek.dev",
-    title: "Avishek | Portfolio",
+    title: "Abhishek Gupta | Portfolio",
     description: "Exceptional digital experiences through code & craft.",
-    siteName: "Avishek Portfolio",
+    siteName: "Abhishek Gupta Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Avishek | Software Engineer",
+    title: "Abhishek Gupta | Software Engineer",
     description: "Building the future of the web.",
   }
 };

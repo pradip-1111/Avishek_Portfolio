@@ -61,12 +61,10 @@ export function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="text-4xl md:text-6xl font-black tracking-tighter mb-6 leading-tight text-foreground"
+            className="text-5xl md:text-8xl font-black tracking-tighter mb-6 leading-[0.85] text-foreground"
           >
-            Avishek <br />
-            <span className="text-primary italic">
-              <Typewriter words={["Developer", "Designer", "Engineer", "Architect"]} />
-            </span>
+            Abhishek <br />
+            <span className="text-primary italic">Gupta</span>
           </motion.h1>
 
           <motion.p
@@ -113,7 +111,7 @@ export function Hero() {
           <div className="w-64 h-64 md:w-80 md:h-80 lg:w-[400px] lg:h-[400px] rounded-[3rem] border-4 border-primary/20 p-2 glass overflow-hidden relative group shadow-2xl">
             <img 
               src="/profile.jpg" 
-              alt="Avishek" 
+              alt="Abhishek Gupta" 
               className="w-full h-full object-cover rounded-[2.5rem] grayscale hover:grayscale-0 transition-all duration-500"
             />
             <div className="absolute inset-0 bg-primary/10 group-hover:bg-transparent transition-colors duration-500"></div>

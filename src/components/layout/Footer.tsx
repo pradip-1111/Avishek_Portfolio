@@ -15,14 +15,14 @@ export function Footer() {
             viewport={{ once: true }}
             className="mb-20 text-center"
           >
-            <h2 className="text-[15vw] font-black tracking-tighter leading-none text-foreground/[0.03] select-none uppercase">
-              AVISHEK
+            <h2 className="text-[8vw] font-black tracking-tighter leading-none text-foreground/[0.03] select-none uppercase">
+              ABHISHEK GUPTA
             </h2>
           </motion.div>
 
           <div className="w-full flex flex-col md:flex-row justify-between items-center gap-8 text-sm font-bold uppercase tracking-widest text-foreground/40">
             <div>
-              &copy; {currentYear} Avishek. All rights reserved.
+              &copy; {currentYear} Abhishek Gupta. All rights reserved.
             </div>
             
             <div className="flex gap-12">

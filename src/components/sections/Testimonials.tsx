@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const reviews = [
-  { name: "John Doe", role: "CEO, TechFlow", comment: "Avishek is hands down the best developer I've worked with. His attention to detail is unmatched.", avatar: "JD" },
+  { name: "John Doe", role: "CEO, TechFlow", comment: "Abhishek Gupta is hands down the best developer I've worked with. His attention to detail is unmatched.", avatar: "JD" },
   { name: "Sarah Smith", role: "CTO, Innovate", comment: "The architectural depth he brings to frontend projects is rare. A true expert in React.", avatar: "SS" },
   { name: "Mike Ross", role: "Product Manager", comment: "Speed, quality, and incredible communication. Highly recommend for any scaling project.", avatar: "MR" },
   { name: "Anna Lee", role: "Designer, Figma", comment: "He translates designs into code with pixel perfection. A pleasure to collaborate with.", avatar: "AL" },
